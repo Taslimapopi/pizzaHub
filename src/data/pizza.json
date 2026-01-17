@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Classic Margherita Pizza",
+    "brand": "Italiano",
+    "price": 550,
+    "description": "Classic Margherita Pizza is made with fresh tomato sauce, premium mozzarella cheese, and aromatic basil leaves.",
+    "ingredients": ["Mozzarella Cheese", "Tomato Sauce", "Basil", "Olive Oil"],
+    "image": "https://i.ibb.co.com/S4xpvmq6/fatima-akram-u-U0-Anw-8-Vsg-unsplash.jpg",
+    "rating": 4.6
+  },
+  {
+    "name": "Pepperoni Pizza",
+    "brand": "Pizza Hub",
+    "price": 750,
+    "description": "Pepperoni Pizza is topped with spicy pepperoni slices and melted mozzarella cheese.",
+    "ingredients": ["Pepperoni", "Mozzarella", "Tomato Sauce"],
+    "image": "https://i.ibb.co.com/tT7gfcx5/drake-whitney-p-Wq-Mo3bhv3-A-unsplash-1.jpg",
+    "rating": 4.8
+  },
+  {
+    "name": "BBQ Chicken Pizza",
+    "brand": "Grill Zone",
+    "price": 820,
+    "description": "BBQ Chicken Pizza combines smoky BBQ sauce with juicy grilled chicken.",
+    "ingredients": ["BBQ Sauce", "Grilled Chicken", "Cheese"],
+    "image": "https://i.ibb.co.com/B57yXSXc/Veggie-Supreme-Pizza.jpg",
+    "rating": 4.5
+  },
+  {
+    "name": "Veggie Supreme Pizza",
+    "brand": "Green Bite",
+    "price": 680,
+    "description": "Veggie Supreme Pizza is loaded with fresh vegetables.",
+    "ingredients": ["Capsicum", "Onion", "Olives", "Mushroom", "Cheese"],
+    "image": "https://i.ibb.co.com/B57yXSXc/Veggie-Supreme-Pizza.jpg",
+    "rating": 4.3
+  },
+  {
+    "name": "Cheese Burst Pizza",
+    "brand": "Cheesy Oven",
+    "price": 900,
+    "description": "Cheese Burst Pizza features a rich layer of molten cheese inside the crust.",
+    "ingredients": ["Cheese", "Tomato Sauce", "Dough"],
+    "image": "https://i.ibb.co.com/S4xpvmq6/fatima-akram-u-U0-Anw-8-Vsg-unsplash.jpg",
+    "rating": 4.9
+  },
+  {
+    "name": "Classic Beef Burger",
+    "brand": "Burger House",
+    "price": 420,
+    "description": "Classic Beef Burger features a juicy beef patty and fresh vegetables.",
+    "ingredients": ["Beef Patty", "Cheese", "Lettuce", "Tomato"],
+    "image": "https://i.ibb.co.com/M4FHvXX/Classic-Beef-Burger.jpg",
+    "rating": 4.7
+  },
+  {
+    "name": "Chicken Cheese Burger",
+    "brand": "Burger Express",
+    "price": 380,
+    "description": "Chicken Cheese Burger is made with crispy chicken patty and creamy cheese.",
+    "ingredients": ["Chicken Patty", "Cheese", "Lettuce"],
+    "image": "https://i.ibb.co.com/wNhXVRvY/Chicken-Cheese-Burger.webp",
+    "rating": 4.4
+  },
+  {
+    "name": "Spicy Chicken Burger",
+    "brand": "Hot Bite",
+    "price": 400,
+    "description": "Spicy Chicken Burger delivers a fiery taste experience.",
+    "ingredients": ["Spicy Chicken Patty", "Sauce", "Bun"],
+    "image": "https://i.ibb.co.com/wNhXVRvY/Chicken-Cheese-Burger.webp",
+    "rating": 4.6
+  },
+  {
+    "name": "Double Beef Burger",
+    "brand": "King Burger",
+    "price": 550,
+    "description": "Double Beef Burger comes with two thick beef patties layered with cheese.",
+    "ingredients": ["Beef Patty", "Cheese", "Sauce"],
+    "image": "https://i.ibb.co.com/M5kxR0TW/Loaded-Burger.webp",
+    "rating": 4.8
+  },
+  {
+    "name": "Loaded Burger",
+    "brand": "Urban Grill",
+    "price": 600,
+    "description": "Loaded Burger is stacked with beef, cheese, fried egg, and special sauce.",
+    "ingredients": ["Beef Patty", "Cheese", "Egg", "Special Sauce"],
+    "image": "https://i.ibb.co.com/M5kxR0TW/Loaded-Burger.webp",
+    "rating": 4.7
+  }
+]
