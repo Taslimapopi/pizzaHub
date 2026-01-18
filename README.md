@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## 📸 Screenshot
+
+![PizzaHub Website Screenshot](https://i.ibb.co.com/p65NF7h8/screencapture-pizzahub-sigma-vercel-app-2026-01-18-12-09-39.png)
+
+
 ## Getting Started
 
 First, run the development server:
